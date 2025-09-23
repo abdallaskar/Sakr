@@ -115,7 +115,7 @@ export function HeroSection() {
           className="flex justify-center md:justify-start p-4 md:p-8"
         >
           <img
-            src="src/assets/pro.JPG"
+            src="/src/assets/pro.JPG"
             alt="Abdalla Mahmoud"
             className="w-80 h-80 border-4 border-emerald-500 shadow-lg object-cover sm:mx-0 blob-shape"
           />
