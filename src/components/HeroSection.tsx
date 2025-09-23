@@ -87,7 +87,7 @@ export function HeroSection() {
                 {
                   icon: ArrowDown,
                   href:
-                    'https://drive.google.com/uc?export=download&id=1JKImPuTzsK6TOG-6htw1UE6cXniLdT2K',
+                    'https://drive.google.com/uc?export=download&id=1x9JqI54E4VDusbk7VOEeMEIg93ZH4UGI',
                 },
               ].map(({ icon: Icon, href }, index) => (
                 <motion.a
