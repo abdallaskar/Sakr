@@ -12,7 +12,7 @@ export function ProjectsSection() {
       title: 'Daf3a – Career Development Platform',
       description:
         'A full-featured Ed-tech platform connecting students with mentors via 1:1 sessions and workshops. Includes real-time chat, AI-based mentor recommendations, video calls, Stripe payments, admin dashboard, calendar-based booking, and responsive UI.',
-      image: '/public/Daf3a.jpg', // <-- replace with real screenshot
+      image: '/Daf3a.jpg', // <-- replace with real screenshot
       technologies: ['MERN', 'Stripe', 'Socket.io', 'WebRTC', 'TailwindCSS'],
       github: 'https://github.com/abdallaskar/Daf3a',
       live: 'https://daf3a.vercel.app',
@@ -22,7 +22,7 @@ export function ProjectsSection() {
       title: 'SakrRestaurant – Full-Stack Restaurant App',
       description:
         'Developed a responsive restaurant web app using React, TailwindCSS, and JSON Server with authentication(via json- server - auth), cart system, filtering, and a full admin CRUD dashboard.Tech Stack: React, React Router, TailwindCSS, DaisyUI, JSON Server, json - server - auth.',
-      image: '/public/Resturnt.jpg',
+      image: '/Resturnt.jpg',
       technologies: ['React', 'TailwindCSS', 'DaisyUI', 'JSON Server', 'json-server-auth'],
       github: 'https://github.com/abdallaskar/sakrResturnt',
       live: 'https://sakrresturnt.vercel.app',
@@ -32,7 +32,7 @@ export function ProjectsSection() {
       title: 'SocialApp – Social Media Platform',
       description:
         'A modern social media app with JWT auth, post creation/editing, image upload, and secure API routes.',
-      image: '/public/SocialApp.jpg',
+      image: '/SocialApp.jpg',
       technologies: ['React', 'Express', 'MongoDB', 'JWT', 'TailwindCSS'],
       github: 'https://github.com/abdallaskar/SocialApp',
       live: 'https://social-app-gamma-nine.vercel.app',
@@ -42,7 +42,7 @@ export function ProjectsSection() {
       title: 'Manage Projects – Freelance Web App',
       description:
         'Full-stack MERN app to manage projects with Arabic RTL support, JWT auth, admin roles, form management, and export to PDF/Word/Excel.',
-      image: '/public/freelancing.jpg',
+      image: '/freelancing.jpg',
       technologies: ['MERN', 'ExcelJS', 'Docx', 'Nodemailer'],
       github: 'https://github.com/abdallaskar/MshruFront',
       live: 'https://mshru-qassim.vercel.app',
@@ -51,7 +51,7 @@ export function ProjectsSection() {
     {
       title: 'Drive Easy – Car Rental Platform',
       description: 'A responsive car rental system with authentication and an admin dashboard.',
-      image: '/public/DriveCar.jpg',
+      image: '/DriveCar.jpg',
       technologies: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
       github: 'https://github.com/abdallaskar/DriveEasy-Cars',
       live: 'https://abdallaskar.github.io/DriveEasy-Cars',
@@ -60,7 +60,7 @@ export function ProjectsSection() {
     {
       title: 'Sakr Portfolio',
       description: 'Responsive personal portfolio showcasing skills, projects, and contact.',
-      image: '/public/Portfolio2.jpg',
+      image: '/Portfolio2.jpg',
       technologies: ['HTML', 'CSS', 'JavaScript', 'Bootstrap'],
       github: 'https://github.com/abdallaskar/Sakr_portfolio',
       live: 'https://abdallaskar.github.io/Sakr_portfolio',
@@ -70,7 +70,7 @@ export function ProjectsSection() {
     {
       title: 'Know Today’s Weather',
       description: 'Weather forecast app with location-based search and responsive UI.',
-      image: '/public/weather.jpg',
+      image: '/weather.jpg',
       technologies: ['React', 'OpenWeather API', 'TailwindCSS'],
       github: 'https://github.com/abdallaskar/Weather_today',
       live: 'https://abdallaskar.github.io/Weather_today',
@@ -79,7 +79,7 @@ export function ProjectsSection() {
     {
       title: 'To-Do Organizer',
       description: 'Task management app with CRUD functionality and clean responsive UI.',
-      image: '/public/Todo.jpg',
+      image: '/Todo.jpg',
       technologies: ['React', 'TailwindCSS', 'LocalStorage'],
       github: 'https://github.com/abdallaskar/Todo_list_app',
       live: 'https://abdallaskar.github.io/Todo_list_app',

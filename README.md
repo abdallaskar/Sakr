@@ -1,6 +1,6 @@
 # 🚀 Abdalla Sakr – Portfolio Website
 
-![Portfolio Banner](./public/pro.JPG)
+![Portfolio Banner](./pro.JPG)
 
 Welcome to my personal portfolio website!  
 This project showcases my skills, experience, and projects as a **MERN Stack Developer & Software Engineer**.
@@ -31,7 +31,7 @@ This project showcases my skills, experience, and projects as a **MERN Stack Dev
 
 ## 📸 Preview
 
-![Website Screenshot](./public/screenshot.png)
+![Website Screenshot](./screenshot.png)
 
 ---
 
