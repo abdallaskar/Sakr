@@ -6,7 +6,7 @@ import { Button } from './ui/button'
 import { Input } from './ui/input'
 import { Textarea } from './ui/textarea'
 import { Github, Linkedin, Mail, Twitter, Youtube, Facebook, Phone, MapPin } from 'lucide-react'
-import emailjs from 'emailjs-com'
+import emailjs from '@emailjs/browser'
 import { useRef } from 'react'
 import toast, { Toaster } from 'react-hot-toast'
 
